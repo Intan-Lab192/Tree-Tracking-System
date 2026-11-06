@@ -1,0 +1,13 @@
+#Prevents actual database credentials from being upload
+config/db.php
+
+# Environment files
+.env
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
